@@ -1,0 +1,34 @@
+{
+  "name": "npx-garvitkul",
+  "version": "1.0.0",
+  "description": "A personalized npx business card for Garvit Kulshrestha",
+  "main": "bin/index.js",
+  "bin": {
+    "npx-garvitkul": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npx",
+    "card",
+    "business card",
+    "garvitkul",
+    "devops"
+  ],
+  "author": "Garvit Kulshrestha",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garvitkul/npx-garvitkul.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Garvitkul/npx-garvitkul/issues"
+  },
+  "homepage": "https://github.com/Garvitkul/npx-garvitkul#readme"
+}
