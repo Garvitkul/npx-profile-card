@@ -7,9 +7,9 @@ import chalk from 'chalk';
 // Personal Information from GitHub API (with some manual additions for skills)
 const userInfo = {
     name: "Garvit Kulshrestha",
-    role: "DevOps Engineer",
-    company: "Euronext",
-    bio: "DevOps Engineer @Euronext | AWS Community Builder | Winner SIH 2022 | Technical Speaker | Technical Writer | Mentor",
+    role: "Cloud Engineer",
+    company: "Zynga",
+    bio: "Cloud Engineer @Zynga | AWS Community Builder | Winner SIH 2022 | Technical Speaker | Technical Writer | Mentor",
     github: "https://github.com/Garvitkul",
     twitter: "https://twitter.com/techwithgarvit",
     // Skills can be manually curated or potentially fetched if available via API in a more complex setup
@@ -18,7 +18,7 @@ const userInfo = {
         "Jenkins", "CI/CD", "Python", "Go", "Linux"
     ],
     // You can add an email if you want to share it
-    // email: "your.email@example.com"
+    email: "garvitindian@gmail.com"
 };
 
 // Styling for the card
