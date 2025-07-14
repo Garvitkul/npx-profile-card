@@ -1,4 +1,10 @@
-# npx-profile-card
+# 📇 npx-profile-card
 
-Run the below command to get my info in your terminal -
-npx npx npx-garvitkul
+Quickly view my profile right in your terminal!
+
+## 🚀 Usage
+
+Run the following command:
+
+```bash
+npx npx-garvitkul
